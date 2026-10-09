@@ -37,7 +37,7 @@ El proyecto sigue el marco de trabajo **CRISP-DM** estructurado en iteraciones c
 
 ## 6. Cómo Ejecutar el Proyecto
 1. Clonar el repositorio:
-   git clone https://github.com/tu-usuario/marketing-campaign-analysis.git
+   git clone https://github.com/Laramedina014/rebanada-preentrega-3.git
    cd marketing-campaign-analysis
 
 
